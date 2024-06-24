@@ -1,7 +1,7 @@
 // 1. Declare a variable that holds a string value without explicitly stating its type
 var myString = "Hello, TypeScript!";
 // 2. Declare a variable that holds a number value and explicitly state its type
-var myNumber = 42;
+var myNumber = 23;
 // 3. Declare a variable that can hold a value of any type
 var myAny = "This can be anything";
 myAny = "I am";
