@@ -6,6 +6,11 @@ let myNumber: number = 42;
 
 // 3. Declare a variable that can hold a value of any type
 let myAny: any = "This can be anything";
+myAny = "I am";
 
 // 4. Declare a variable that can hold either a string or a number
 let myStringOrNumber: string | number = "Could be a string or a number";
+
+myStringOrNumber = "years old.";
+
+console.log(`${myString}, ${myAny} ${myNumber} ${myStringOrNumber}`)
